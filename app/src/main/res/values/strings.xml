@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhotoDrawer</string>
+    <string name="SaveButtonText">Save</string>
+    <string name="chooseButtonText">Choose Image</string>
+</resources>
